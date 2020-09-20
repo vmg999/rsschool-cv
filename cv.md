@@ -8,7 +8,7 @@
 
 * vmg999@gmail.com
 
-* Telegram: gvm999
+* Telegram: @gvm999
 
 
 
