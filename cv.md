@@ -1,6 +1,7 @@
 # Personal Profile
 
 ## Haidut Vladimir
+![](https://i.imgur.com/JV9EPbG.png)
 
 ### Contacts
 * +38-063-560-14-58
