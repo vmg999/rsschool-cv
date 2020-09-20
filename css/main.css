@@ -1,0 +1,73 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+body{
+    max-width: 1200px;
+    position: relative;
+    margin:auto;
+    font-family: Calibri, Arial, sans-serif;
+    font-size: 18px;
+}
+main{
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    background-color: #fafafa;
+    
+}
+header{
+    height: 70px;
+    background: #353f58;
+    color: white;
+    
+}
+h1{
+    padding: 15px 30px;
+}
+
+h3{
+    padding-bottom:7px;
+}
+
+p{
+    margin-bottom: 7px;
+}
+
+ul{
+    list-style-type: circle;
+}
+
+.photo{
+    padding-top: 30px;
+}
+.name{
+    position: absolute;
+    right: 60px;
+    top: 130px;
+    font-size: 1.7em;
+
+}
+.contacts{
+    position: absolute;
+    right: 60px;
+    top: 230px;
+}
+
+.goal, .education, .employment, .skills, .projects, .lang {
+    border: solid 1px rgba(0,0,0, 0.1);
+    max-width: 800px;
+    margin: 10px auto;
+    padding: 30px;
+    background: rgba(122, 122, 122, 0.18);
+}
+
+.inr{
+    margin-left: 30px;
+}
+.sblst{
+    margin-left: 30px;
+    font-size: 0.9em;
+    margin-bottom: 7px;
+}
