@@ -17,7 +17,7 @@ To be a highly qualified web-developer.
 
 
 ## **Education**
-2006-2011 - Odessa I.I. Mechnikov National University, Faculty of Biology. Master’s degree in biochemistry.
+2006-2011 - Odessa I.I.Mechnikov National University, Faculty of Biology. Master’s degree in biochemistry.
 
 2014 - PHP-development courses. 
 
@@ -43,11 +43,11 @@ To be a highly qualified web-developer.
 
 
 ## Skills
-  *	Base knowledge of web-stack: Linux, Apache, PHP, MySQL, JS, HTML/CSS, Git
+  *	Base knowledge of web-stack: Linux, Apache, PHP, MySQL, JS, HTML/CSS, Git.
   *	Work with web-infrastructure: hosting, VPS, AWS, SSL-certificates, DNS etc.
   *	Agile methodology: Scrum, DevOps.
   *	Ability to formalize users’ requirements, planning resources, tasks decomposition, make workflow.
-  *	Blind typing
+  *	Blind typing.
   
 ## Pet-project
 https://github.com/vmg999/mono
