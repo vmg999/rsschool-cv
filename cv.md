@@ -37,7 +37,7 @@ To be a highly qualified web-developer.
   *	_Technical Writing. Writing customer requirements, technical assignments for the development team._
   *	_Developing knowledge base for internal ERP/CRM system_
   *	_Managing team of Support Specialists_
-  *	_Managing development of internal service for generating sales offers. Concept, statement of work, supporting documentation, development process control, presentation, suupport._
+  *	_Managing development of internal service for generating sales offers. Concept, statement of work, supporting documentation, development process control, presentation, support._
 
 2018-2019 — Remote Technical Writing.
 
